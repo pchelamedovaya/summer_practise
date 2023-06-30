@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Task01</string>
+    <string name="hello_blank_fragment">Profile Screen</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+    <string name="gotoanotherfragment">GoToAnotherFragment</string>
+    <string name="gotomainfragment">GoToMainFragment</string>
+</resources>
